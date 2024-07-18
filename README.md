@@ -6,16 +6,16 @@ This repository contains a comprehensive analysis of Vedant Fashions Limited, fo
 
 ## Table of Contents
 
-1. [Current Overview and Financial Performance](#current-overview-and-financial-performance)
-2. [Objective](#objective)
-3. [Economic Overview](#economic-overview)
-4. [Industry Overview: Apparel and Ethnic Wear Market](#industry-overview-apparel-and-ethnic-wear-market)
-5. [Company Overview](#company-overview)
-6. [Vedant Fashions' IPO Prospectus](#vedant-fashions-ipo-prospectus)
-7. [Comparison Between IPO 2021 and Annual Report 2022-2023](#comparison-between-ipo-2021-and-annual-report-2022-2023)
-8. [Financial Statement Overview (Manyavar)](#financial-statement-overview-manyavar)
-9. [Final Recommendation](#final-recommendation)
-10. [References](#references)
+1. [Current Overview and Financial Performance]
+2. [Objective]
+3. [Economic Overview]
+4. [Industry Overview: Apparel and Ethnic Wear Market]
+5. [Company Overview]
+6. [Vedant Fashions' IPO Prospectus]
+7. [Comparison Between IPO 2021 and Annual Report 2022-2023]
+8. [Financial Statement Overview (Manyavar)]
+9. [Final Recommendation]
+10. [References]
 
 ## Summary
 
